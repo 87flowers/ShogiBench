@@ -4,10 +4,10 @@
     "client_repo_ref"    : "shogi",
 
     "fastchess_min_version" : "0.9.0",
-    "fastchess_repo_url"    : "https://github.com/AndyGrant/fast-chess",
+    "fastchess_repo_url"    : "https://github.com/AndyGrant/fastchess",
     "fastchess_repo_ref"    : "master",
 
-    "shogitest_min_version" : "0.1.0",
+    "shogitest_min_version" : "0.1.1",
     "shogitest_repo_url"    : "https://github.com/87flowers/shogitest",
     "shogitest_repo_ref"    : "main",
 
