@@ -425,7 +425,7 @@ class MatchRunner:
     def concurrency_settings(config):
 
         # Already computed for us by the Server
-        return '-concurrency %d -games %d' % (
+        return '-concurrency %d -rounds %d' % (
             config.workload['distribution']['concurrency-per'],
             config.workload['distribution']['games-per-runner'],
         )
